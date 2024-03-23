@@ -8,6 +8,7 @@ title "Worp_Quest_VR"
 @set "apk=815631721834"
 @set "app=941760987135"
 @set "rom=815732891781"
+@set "exe=191284673891"
 cecho {04}1=apk{/h}2=app{/h}3=rom{/h}4=exe{07}
 
 set /a m=Choose;
